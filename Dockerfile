@@ -1,4 +1,4 @@
-FROM ubi8/s2i-core:rhel8.5
+FROM ubi8/ubi:8.5-200
 
 EXPOSE 8080
 EXPOSE 8443

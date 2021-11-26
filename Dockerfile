@@ -1,4 +1,4 @@
-FROM centos/nginx-18-centos7 
+FROM registry.redhat.io/rhel8/nginx-118 
 
 ADD app /opt/app-root/src
 
